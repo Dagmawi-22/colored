@@ -1,0 +1,30 @@
+{
+  "name": "colored",
+  "developer": {
+    "name": "Dagmawi Teka",
+    "phone": "+251918888225",
+    "email": "dagmawi.teka22@gmail.com",
+    "website": "https://dagmawi-teka.vercel.app"
+  },
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "expo": "^49.0.0",
+    "expo-linear-gradient": "^13.0.2",
+    "expo-status-bar": "~1.6.0",
+    "expo-torch": "^0.6.0",
+    "react": "18.2.0",
+    "react-native": "0.72.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
